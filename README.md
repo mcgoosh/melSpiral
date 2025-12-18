@@ -1,9 +1,9 @@
 A MEL script I wrote a long time ago that will create a spiral using NURBS circles. 
 
-![Preview](https://github.com/mcgoosh/network_firewall/blob/master/snap.jpg)
-![Preview](https://github.com/mcgoosh/network_firewall/blob/master/spi.jpg)
-![Preview](https://github.com/mcgoosh/network_firewall/blob/master/spiralcreate.jpg)
-![Preview](https://github.com/mcgoosh/network_firewall/blob/master/wip.jpg)
+![Preview](https://github.com/mcgoosh/melSpiral/blob/master/snap.jpg)
+![Preview](https://github.com/mcgoosh/melSpiral/blob/master/spi.jpg)
+![Preview](https://github.com/mcgoosh/melSpiral/blob/master/spiralcreate.jpg)
+![Preview](https://github.com/mcgoosh/melSpiral/blob/master/wip.jpg)
 
 ##### MEL:
 
